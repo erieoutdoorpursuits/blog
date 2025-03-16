@@ -1,19 +1,23 @@
 ---
-title: "Jim's Page"
+title: "My posts"
 layout: "base.njk"
 ---
 
-<h1>{{ title }} Home Page</h1>
-
-# My content
-{{ post.date | date("MMMM D, YYYY") }}
+<h1>{{ title }}</h1>
 
 <ul>
   {% for post in collections.posts %}
+    <hr class="my-4" />
+    <div class="post-preview">
     <li>
-      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <h2 class="post-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
       <p><strong>Date:</strong> {{ post.date | date("MMMM D,") }}</p>
-      <p><strong>Description:</strong> {{ post.data.description }}</p>
+      <h3 class="post-subtitle"><strong>Description:</strong> {{ post.data.description }}</h3>
     </li>
+    
+    <div>
+    <br>
+    <br>
+    
   {% endfor %}
 </ul>
