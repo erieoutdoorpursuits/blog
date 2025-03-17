@@ -10814,3 +10814,11 @@ header.masthead .post-heading .meta a {
 ul {
   list-style-type: none;
 }
+
+#slideshow img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
