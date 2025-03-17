@@ -10780,6 +10780,7 @@ header.masthead .post-heading .meta a {
   margin-bottom: 0.625rem;
 }
 .post-preview > a > .post-subtitle {
+  background-color: red;
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
@@ -10796,4 +10797,20 @@ header.masthead .post-heading .meta a {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+}
+
+.post-title {
+  font-size: 3.0rem;
+  margin-top: 1.875rem;
+  margin-bottom: 2.625rem;
+  list-style-type: none;
+}
+
+.post-preview {
+  margin-botom
+
+}
+
+ul {
+  list-style-type: none;
 }
