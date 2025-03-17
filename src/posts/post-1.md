@@ -6,6 +6,8 @@ tags: posts
 author: Jim Writer
 ---
 
+<img src="https://i.imgur.com/XCdeqybh.jpg" alt="Descriptive text" class="img-fluid" style="width: 800px; margin: 0 auto;">
+
 
 Hi there, and welcome to my corner of the internet! My name is Jim, and this blog is where I’ll be chronicling my journey through the great outdoors, sharing stories from the trails, the open roads, and the campfires.
 
