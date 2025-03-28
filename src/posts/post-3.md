@@ -5,6 +5,7 @@ date: 2025-03-27
 tags: posts
 author: Jim Writer
 image: https://i.imgur.com/FtSiVs3.jpg
+url: https://blog.erieoutdoorpursuits.net/post-3/
 ---
 
 <img src="https://i.imgur.com/a0n9Z6q.gif" alt="Corry Junction Greenway Trail" class="img-fluid" style="width: 800px; margin: 0 auto;">
