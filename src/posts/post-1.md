@@ -5,6 +5,7 @@ date: 2025-03-16
 tags: posts
 author: Jim Writer
 image: https://i.imgur.com/XCdeqyb.jpg
+url: https://blog.erieoutdoorpursuits.net/post-1
 ---
 
 <img src="https://i.imgur.com/XCdeqybh.jpg" alt="Descriptive text" class="img-fluid" style="width: 800px; margin: 0 auto;">
