@@ -13,7 +13,7 @@ image: https://i.imgur.com/FtSiVs3.jpg
 
 Dirt rail trails offer a relaxing experience for cyclists who love connecting with  nature. The soft ground often provides a quieter ride compared to a paved bike path, letting you soak in the sounds of the forest and  farmland. Dirt paths challenge your skills with varied terrain, making every ride a unique  journey.
 
-The Corry Greenway Trail starts on Route 426 in Corry, Pa, and goes to  Clymer, New York. It is an interesting trail that allows you to ride in two  states. It is only about 7 miles to Clymer, New York, on the  trail.
+The Corry Greenway Trail is a dirt trail that starts on Route 426 north of route 6 in Corry, Pa, and goes to  Clymer, New York. It is an interesting trail that allows you to ride in two  states. It is only about 7 miles to Clymer, New York, on the  trail.
 
 My brother and I started at the parking lot next to Route 6 in Corry, Pa, next to the Subway  shop. There is also a parking lot on Route 426 next to the trail  head. The first part of the trail is a gravel-dirt mix, which is easy to ride on with any city bike, gravel bike, or mountain  bike. There are some short pave sections next to some of the road  Crossing. There also a dirt parking lot on Hereford Road on the Pennsylvania  side
 
