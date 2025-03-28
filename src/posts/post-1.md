@@ -4,6 +4,7 @@ description: Welcome to my corner of the internet!
 date: 2025-03-16
 tags: posts
 author: Jim Writer
+image: https://i.imgur.com/XCdeqyb.jpg
 ---
 
 <img src="https://i.imgur.com/XCdeqybh.jpg" alt="Descriptive text" class="img-fluid" style="width: 800px; margin: 0 auto;">

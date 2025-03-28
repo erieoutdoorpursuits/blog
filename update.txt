@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Initial commit"
+git commit -m "Corry Junction Greenway Trail"
 
 git push -u origin main
 
