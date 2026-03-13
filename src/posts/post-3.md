@@ -1,5 +1,5 @@
 ---
-title: Corry Junction Greenway Trail Adventure
+title: Corry Junction Greenway Trails Adventure
 description: It is an interesting trail that allows you to ride in two  states. 
 date: 2025-03-27
 tags: posts
