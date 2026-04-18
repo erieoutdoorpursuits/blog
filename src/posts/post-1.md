@@ -1,7 +1,7 @@
 ---
 title: Welcome to My World of Adventure
 description: Welcome to my corner of the internet!
-date: 2025-03-16
+date: 2026-04-16
 tags: posts
 author: Jim Writer
 image: https://i.imgur.com/XCdeqyb.jpg

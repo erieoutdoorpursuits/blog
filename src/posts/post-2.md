@@ -1,7 +1,7 @@
 ---
 title: Pymatuning Valley Greenway Adventure
 description: The Pymatuning Valley Greenway Trail was completed last fall.
-date: 2025-03-17
+date: 2026-04-18
 tags: posts
 author: Jim Writer
 image: https://i.imgur.com/dTpTZtK.jpg
