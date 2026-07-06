@@ -1,5 +1,5 @@
 ---
-title: Welcome to My World of Adventure
+title: Welcome to My World of Adventure 2026
 description: Welcome to my corner of the internet!
 date: 2026-04-16
 tags: posts
